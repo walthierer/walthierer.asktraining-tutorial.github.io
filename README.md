@@ -33,7 +33,7 @@ Additional information every Module provides:
 + License
 
 <p align="center" width="100%">
-<video width="600" controls>
+<video height="600" controls>
   <source src="images/module_overview_page/module-topic_additional_info.mp4" type="video/mp4">
   Dein Browser unterstützt das Video-Tag nicht.
 </video><br><em>Module Box with informations</em></p>
