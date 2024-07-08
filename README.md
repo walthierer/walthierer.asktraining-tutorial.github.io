@@ -89,6 +89,6 @@ __Selected modules are inserted into your training in the Training Planner.__
 + Click on PLAN YOUR TRAINING to open the selected modules in the training planner.
   
 <p align="center" width="100%"><video width="700" controls>
-  <source src="images/module_overview_page/module-module_selection_&_searchbar.mp4 type="video/mp4">
+  <source src="images/module_overview_page/module-module_selection_&_searchbar.mp4" type="video/mp4">
 </video><br>
 <em>Selecting Modules to Plan your Training</em></p>
