@@ -4,6 +4,8 @@ __Description:__
 Join our webinar on #ASKtraining and unlock the full potential of this powerful online tool. Designed specifically for #ASKnet members, this session will walk you through its purpose, target groups, and core functionalities. Learn how to navigate the platform, use the filter function, and customize your training modules with ease. [You’ll also discover handy features like saving your training as a PDF and generating summaries.] By participating, you’ll have the skills to design your own training program, making your sessions more organized and impactful. Don’t miss out on this opportunity to enhance your training experience and boost your productivity!
 
 __Table of Content:__
+[toc]
+
 Webinar 1: #ASKtraining - What’s On?
 1. Introduction: What is #ASKtraining? Who is it for?
    + Overview of #ASKtraining
@@ -62,3 +64,21 @@ Click the module title to see:
   <source src="images/module_overview_page/module-module_preview_red.mp4" type="video/mp4">
 </video><br>
 <em>Module preview</em></p>
+
+### Filters, tags & search bar
+
+Filters: Four filter options update the list of modules dynamically.
+
++ Difficulty Level: Easy, medium, and advanced levels. Multiple selections ok.
++ Max. Participants: Filter based on the maximum number of participants. 
++ Multiple options can be selected.
++ Tags: Expand to view a list of tags. 
++ Click to filter modules by selected tags. Multiple tags can be combined. 
++ Deselect by clicking again or using ‘All’.
++ Search Bar: Type to dynamically filter modules by titles and content. 
++ Clear search using ‘Clear Search’ button.
+
+<p align="center" width="100%"><video width="700" controls>
+  <source src="images/module_overview_page/module-Filter_tags__participants.mp4" type="video/mp4">
+</video><br>
+<em>Working with different filters</em></p>
