@@ -27,8 +27,7 @@ Webinar 1: #ASKtraining - What’s On?
 <p align="center" width="100%"><img width="600" src="images/module_overview_page/module_overview.png" alt="Module Overview Page"/><br><em>The Module Overview Page</em></p>
 
 ### Understanding module boxes
-
-Each module focuses on a specific topic with related resources.
+__Each module focuses on a specific topic with related resources.__  
 
 Additional information every Module provides:
 + Max Participants
@@ -67,7 +66,7 @@ Click the module title to see:
 
 ### Filters, tags & search bar
 
-Filters: Four filter options update the list of modules dynamically.
+__Filters: Four filter options update the list of modules dynamically.__
 
 + Difficulty Level: Easy, medium, and advanced levels. Multiple selections ok.
 + Max. Participants: Filter based on the maximum number of participants. 
@@ -82,3 +81,14 @@ Filters: Four filter options update the list of modules dynamically.
   <source src="images/module_overview_page/module-Filter_tags__participants.mp4" type="video/mp4">
 </video><br>
 <em>Working with different filters</em></p>
+
+### Module Selection
+
+__Selected modules are inserted into your training in the Training Planner.__
++ Click on the circle next to the title to select modules.
++ Click on PLAN YOUR TRAINING to open the selected modules in the training planner.
+  
+<p align="center" width="100%"><video width="700" controls>
+  <source src="images/module_overview_page/module-module_selection_&_searchbar.mp4 type="video/mp4">
+</video><br>
+<em>Selecting Modules to Plan your Training</em></p>
