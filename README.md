@@ -45,6 +45,6 @@ Clicking a tag updates the list of modules with the same tag.
 Icons are clickable too and serve also as filters.
 
 <p align="center" width="100%">
-<video height="600" controls>
+<video width="600" controls>
   <source src="images/module_overview_page/module-icons__tags_as_filter.mp4" type="video/mp4">
 </video><br><em>Using tags and additonal information as filters</em></p>
