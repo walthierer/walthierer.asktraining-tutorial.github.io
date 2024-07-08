@@ -25,7 +25,8 @@ Webinar 1: #ASKtraining - What’s On?
 <p align="center" width="100%"><img width="600" src="images/module_overview_page/module_overview.png" alt="Module Overview Page"/><br><em>The Module Overview Page</em></p>
 
 ### Understanding module boxes
-__Each module focuses on a specific topic with related resources.__
+
+Each module focuses on a specific topic with related resources.
 
 Additional information every Module provides:
 + Max Participants
@@ -35,6 +36,15 @@ Additional information every Module provides:
 <p align="center" width="100%">
 <video height="600" controls>
   <source src="images/module_overview_page/module-topic_additional_info.mp4" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
 </video><br><em>Module Box with informations</em></p>
 
+### Module Tags
+
+Modules have tags that categorize them based on their topic
+Clicking a tag updates the list of modules with the same tag.
+Icons are clickable too and serve also as filters.
+
+<p align="center" width="100%">
+<video height="600" controls>
+  <source src="images/module_overview_page/module-icons__tags_as_filter.mov" type="video/mov">
+</video><br><em>Using tags and additonal information as filters</em></p>
