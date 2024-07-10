@@ -11,7 +11,6 @@
   padding: 5px;}
 </style>
 
-
 # Webinar 1: #ASKtraining - What’s On?
 
 __Description:__
@@ -57,23 +56,22 @@ Additional information every Module provides:
   <div class="column">
     <div align="center" width="100">
       <video width="300" controls>
-        <source src="images/module_overview_page/module-topic_additional_info.mp4"" type="video/mp4"></video><br>
-    <em>Module Box with informations</em></div>
+        <source src="images/module_overview_page/module-topic_additional_info.mp4" type="video/mp4">
+      </video><br>
+      <em>Module Box with informations</em>
+    </div>
   </div>
   <div class="column">
     <b>Each module focuses on a specific topic with related resources:</b><br><br> 
-  <ul>
-    <li>Max. Participants</li>
-    <li>Difficulty Level</li>
-    <li>License</li></ul>
+    <ul>
+      <li>Max. Participants</li>
+      <li>Difficulty Level</li>
+      <li>License</li>
+    </ul>
   </div>
 </div>
 
-
-
-
 ### Module Tags
-
 Modules have tags that categorize them based on their topic
 Clicking a tag updates the list of modules with the same tag.
 Icons are clickable too and serve also as filters.
@@ -99,16 +97,12 @@ Click the module title to see:
 
 ### Filters, tags & search bar
 
-__Filters: Four filter options update the list of modules dynamically.__
+__Filters: Update the list of modules dynamically using four options:__
 
-+ Difficulty Level: Easy, medium, and advanced levels. Multiple selections ok.
-+ Max. Participants: Filter based on the maximum number of participants. 
-+ Multiple options can be selected.
-+ Tags: Expand to view a list of tags. 
-+ Click to filter modules by selected tags. Multiple tags can be combined. 
-+ Deselect by clicking again or using ‘All’.
-+ Search Bar: Type to dynamically filter modules by titles and content. 
-+ Clear search using ‘Clear Search’ button.
++ __Difficulty Level:__ Choose from easy, medium, and advanced. Multiple selections allowed.
++ __Max. Participants:__ Filter by maximum number of participants. Multiple options can be selected.
++ __Tags:__ Click to filter modules by tags. Combine multiple tags. Deselect by clicking again or selecting 'All'.
++ __Search Bar:__ Type to filter modules by titles and content dynamically. Clear search using the ‘Clear Search’ button.
 
 <p align="center" width="100%"><video width="700" controls>
   <source src="images/module_overview_page/module-Filter_tags__participants.mp4" type="video/mp4">
@@ -141,14 +135,6 @@ __Selected modules are inserted into your training in the Training Planner.__
 + List of modules to add on the left
 
 ### Module Tags
-<!-- <p align="center" width="100%">
-<video width="200" controls>
-  <source src="images/training_planner/10_training_filter_tags.mp4" type="video/mp4">
-</video><br>
-<em>Selecting Modules to Plan your Training</em></p> -->
-
-<br>  
-
 <div class="row">
   <div class="column">
     <div align="center" width="100">
@@ -169,22 +155,6 @@ __Selected modules are inserted into your training in the Training Planner.__
       </ul>
   </div>
 </div>
-
-
-
-<!-- <div class="row">
-  <div class="column">
-    <img width="300" src="images/training_planner/filter_tags.png" alt="List of tags"><br>
-    <em align="center" width="100%">List of tags</em>
-  </div>
-  <div class="column">
-  <ul>
-    <li>Comprehensive list of modules with filter and search options.</li>
-    <li>Dynamic list: Filter modules by tags and update the list accordingly</li>
-    <li>Combine multiple tags for broader search results.</li>
-    <li>Drag modules from the sidebar to the training planner.</li>
-  </div>
-</div> -->
 
 
 
