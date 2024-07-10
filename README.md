@@ -10,6 +10,7 @@
   flex: 50%;
   padding: 5px;}
 </style>
+<div align="center" width="90">
 
 # Webinar 1: #ASKtraining - What’s On?
 
@@ -174,4 +175,4 @@ __Selected modules are inserted into your training in the Training Planner.__
 
 
 
-
+</div>
