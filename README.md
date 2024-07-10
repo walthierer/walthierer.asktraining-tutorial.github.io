@@ -41,17 +41,36 @@ Webinar 1: #ASKtraining - What’s On?
 <p align="center" width="100%"><img width="600" src="images/module_overview_page/module_overview.png" alt="Module Overview Page"/><br><em>The Module Overview Page</em></p>
 
 ### Understanding module boxes
-__Each module focuses on a specific topic with related resources.__  
+<!-- __Each module focuses on a specific topic with related resources.__  
 
 Additional information every Module provides:
-+ Max Participants
++ Max. Participants
 + Difficulty Level
 + License
 
 <p align="center" width="100%">
 <video height="600" controls>
   <source src="images/module_overview_page/module-topic_additional_info.mp4" type="video/mp4">
-</video><br><em>Module Box with informations</em></p>
+</video><br><em>Module Box with informations</em></p> -->
+
+<div class="row">
+  <div class="column">
+    <div align="center" width="100">
+      <video width="300" controls>
+        <source src="images/module_overview_page/module-topic_additional_info.mp4"" type="video/mp4"></video><br>
+    <em>Module Box with informations</em></div>
+  </div>
+  <div class="column">
+    <b>Each module focuses on a specific topic with related resources:</b><br><br> 
+  <ul>
+    <li>Max. Participants</li>
+    <li>Difficulty Level</li>
+    <li>License</li></ul>
+  </div>
+</div>
+
+
+
 
 ### Module Tags
 
@@ -144,7 +163,7 @@ __Selected modules are inserted into your training in the Training Planner.__
     <li>Comprehensive list of modules with filter and search options.</li>
     <li>Dynamic list: Filter modules by tags and update the list accordingly</li>
     <li>Combine multiple tags for broader search results.</li>
-    <li>Drag modules from the sidebar to the training planner.</li>
+    <li>Drag modules from the sidebar to the training planner.</li></ul>
   </div>
 </div>
 
