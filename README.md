@@ -1,3 +1,17 @@
+<style>
+* {
+  box-sizing: border-box;}
+
+.row {
+  display: flex;}
+
+/* Create three two columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 5px;}
+</style>
+
+
 # Webinar 1: #ASKtraining - What’s On?
 
 __Description:__
@@ -92,3 +106,54 @@ __Selected modules are inserted into your training in the Training Planner.__
   <source src="images/module_overview_page/module-module_selection_&_searchbar.mp4" type="video/mp4">
 </video><br>
 <em>Selecting Modules to Plan your Training</em></p>
+
+## ASKtraining Planner
+
++ Get started with the #ASKnet Training Planner.
++ Explore the user interface and understand its functionalities.
++ Enter through the Module Overview Page with preselected modules.
++ Learn how to customize your training plan, including titles, descriptions, and schedules.
+
+### The two main components 
+<p align="center" width="100%"><img width="800" src="images/training_planner/07_training_main_area.png" alt="#ASKtraining Planner"/><br><em>Sidebar with modules on the left<br>Training Planner in the center</em></p>
+
++ Training Planner (Central Area)
++ Main area to plan your training.
++ List of modules to add on the left
+
+### Module Tags
+<p align="center" width="100%">
+<video width="200" controls>
+  <source src="images/training_planner/10_training_filter_tags.mp4" type="video/mp4">
+</video><br>
+<em>Selecting Modules to Plan your Training</em></p>
+
++ Comprehensive list of modules with filter and search options.
++ Dynamic list: Filter modules by tags and update the list accordingly
++ Combine multiple tags for broader search results.
++ Drag modules from the sidebar to the training planner.
+
+<p align="center" width="100%">
+<img width="300" src="images/training_planner/filter_tags.png" alt="List of tags"><br>
+<em>List of tags</em></p>
+
+<div class="row">
+  <div class="column">
+    <img width="300" src="images/training_planner/filter_tags.png" alt="List of tags"><br>
+    <em align="center" width="100%">List of tags</em>
+  </div>
+  <div class="column">
+  <ul>
+    <li>Comprehensive list of modules with filter and search options.</li>
+    <li>Dynamic list: Filter modules by tags and update the list accordingly</li>
+    <li>Combine multiple tags for broader search results.</li>
+    <li>Drag modules from the sidebar to the training planner.</li>
+  </div>
+</div>
+
+
+
+
+
+
+
