@@ -187,7 +187,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
         <source src="images/training_planner/08_training_drag__drop.mp4" type="video/mp4"></video><br>
     <em>Using the Search Bar to find Modules</em>
     </div>
-
+<br>
 <div class="row">
   <div class="column">
     <ul>
