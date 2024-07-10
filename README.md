@@ -154,16 +154,19 @@ __Selected modules are inserted into your training in the Training Planner.__
     <div align="center" width="100">
       <video width="200" controls>
         <source src="images/training_planner/10_training_filter_tags.mp4" type="video/mp4"></video><br>
-    <em>Selecting Modules to Plan your Training</em></div>
+    <em>Selecting Modules to Plan your Training</em>
+    </div>
   </div>
+
   <div class="column">
     <img width="300" src="images/training_planner/filter_tags.png" alt="List of tags"><br>
     <div align="center" width="100"><em>List of tags</em></div><br>
-  <ul>
-    <li>Comprehensive list of modules with filter and search options.</li>
-    <li>Dynamic list: Filter modules by tags and update the list accordingly</li>
-    <li>Combine multiple tags for broader search results.</li>
-    <li>Drag modules from the sidebar to the training planner.</li></ul>
+    <ul>
+      <li>Comprehensive list of modules with filter and search options.</li>
+      <li>Dynamic list: Filter modules by tags and update the list accordingly</li>
+      <li>Combine multiple tags for broader search results.</li>
+      <li>Drag modules from the sidebar to the training planner.</li>
+      </ul>
   </div>
 </div>
 
