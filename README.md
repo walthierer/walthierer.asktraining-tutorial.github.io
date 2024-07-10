@@ -10,7 +10,6 @@
   flex: 50%;
   padding: 5px;}
 </style>
-<div align="center" width="90">
 
 # Webinar 1: #ASKtraining - What’s On?
 
@@ -102,7 +101,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   </div>
 </div>
 
-### Filters, tags & search bar
+### Filters, Tags & Search Bar
 <div class="row">
   <div class="column">
     <div align="center" width="100">
@@ -125,16 +124,25 @@ Clicking a tag updates the list of modules with the same tag.</p>
 
 ### Module Selection
 
-__Selected modules are inserted into your training in the Training Planner.__
-+ Click on the circle next to the title to select modules.
-+ Click on PLAN YOUR TRAINING to open the selected modules in the training planner.
-  
-<p align="center" width="100%"><video width="700" controls>
-  <source src="images/module_overview_page/module-module_selection_&_searchbar.mp4" type="video/mp4">
-</video><br>
-<em>Selecting Modules to Plan your Training</em></p>
+<div class="row">
+  <div class="column">
+    <p><b>Selected modules are inserted into your training in the Training Planner.</b></p> 
+    <ul>
+      <li>Click on the circle next to the title to select modules.</li>
+      <li>Click on PLAN YOUR TRAINING to open the selected modules in the training planner.</li>
+    </ul>
+  </div>
+  <div class="column">
+    <div align="center" width="100">
+      <video width="550" controls>
+        <source src="images/module_overview_page/module-module_selection_&_searchbar.mp4" type="video/mp4">
+      </video><br>
+      <em>Selecting Modules to Plan your Training</em>
+    </div>
+  </div>
+</div>
 
-## ASKtraining Planner
+## #ASKtraining Planner
 
 + Get started with the #ASKnet Training Planner.
 + Explore the user interface and understand its functionalities.
@@ -144,9 +152,12 @@ __Selected modules are inserted into your training in the Training Planner.__
 ### The two main components 
 <p align="center" width="100%"><img width="800" src="images/training_planner/07_training_main_area.png" alt="#ASKtraining Planner"/><br><em>Sidebar with modules on the left<br>Training Planner in the center</em></p>
 
-+ Training Planner (Central Area)
-+ Main area to plan your training.
-+ List of modules to add on the left
+<ul>
+  <li>Training Planner (Central Area)</li>
+  <li>Main area to plan your training</li>
+  <li>List of modules to add on the left</li>
+</ul>
+
 
 ### Module Tags
 <div class="row">
@@ -170,9 +181,26 @@ __Selected modules are inserted into your training in the Training Planner.__
   </div>
 </div>
 
-
-
-
-
-
+### Search Bar
+<div class="row">
+  <div class="column">
+    <div align="center" width="100">
+      <video width="550" controls>
+        <source src="images/training_planner/08_training_drag__drop.mp4" type="video/mp4"></video><br>
+    <em>Using the Search Bar to find Modules</em>
+    </div>
+  </div>
+  <div class="column">
+    <div align="center" width="100">
+      <ul>
+        <li>Dynamically updates the list as you type.</li>
+        <li>Filters by titles and content of modules.</li>
+        <li>Use the ‘Clear Search’ button to reset.</li>
+        <li>Located beneath the tags in the upper left corner.</li>
+      </ul>
+      <br>
+      <img width="300" src="images/training_planner/11_training_searchbar_&_collapesd_filter.png" alt="Search Bar"><br>
+      <em>Search Bar</em>
+    </div>
+  </div>
 </div>
