@@ -71,7 +71,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   </div>
   <div class="column">
     <div align="center" width="100">
-      <video width="500" controls>
+      <video width="550" controls>
         <source src="images/module_overview_page/module-icons__tags_as_filter.mp4" type="video/mp4">
       </video>
       <br>
@@ -89,7 +89,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
 <div class="row">
   <div class="column">
     <div align="center" width="100">
-      <video width="500" controls>
+      <video width="550" controls>
         <source src="images/module_overview_page/module-module_preview_red.mp4" type="video/mp4">
       </video><br>
       <em>Module preview</em>
