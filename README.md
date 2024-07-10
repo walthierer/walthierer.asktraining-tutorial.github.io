@@ -69,7 +69,6 @@ Clicking a tag updates the list of modules with the same tag.</p>
     <br>
     <p>Modules can also be filtered by <b>Max. Participants</b> and <b>Difficulty Level</b>. Clicking the icons dynamically updates the list of modules.</p>
   </div>
-
   <div class="column">
     <div align="center" width="100">
       <video width="700" controls>
@@ -78,8 +77,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
       <br>
       <em>Using tags and additonal information as filters</em>
     </div>
-  </div>
-  
+  </div>  
 </div>
 
 <!-- <p align="center" width="100%">
