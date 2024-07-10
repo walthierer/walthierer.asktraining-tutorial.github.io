@@ -66,7 +66,6 @@ Webinar 1: #ASKtraining - What’s On?
   <div class="column">
     <p>Modules have tags that categorize them based on their topic
 Clicking a tag updates the list of modules with the same tag.</p>
-    <br>
     <p>Modules can also be filtered by <b>Max. Participants</b> and <b>Difficulty Level</b>. Clicking the icons dynamically updates the list of modules.</p>
   </div>
   <div class="column">
@@ -79,11 +78,6 @@ Clicking a tag updates the list of modules with the same tag.</p>
     </div>
   </div>  
 </div>
-
-<!-- <p align="center" width="100%">
-<video width="700" controls>
-  <source src="images/module_overview_page/module-icons__tags_as_filter.mp4" type="video/mp4">
-</video><br><em>Using tags and additonal information as filters</em></p> -->
 
 ### Module Preview
 <div class="row">
@@ -108,18 +102,25 @@ Clicking a tag updates the list of modules with the same tag.</p>
 </div>
 
 ### Filters, tags & search bar
-
-__Filters: Update the list of modules dynamically using four options:__
-
-+ __Difficulty Level:__ Choose from easy, medium, and advanced. Multiple selections allowed.
-+ __Max. Participants:__ Filter by maximum number of participants. Multiple options can be selected.
-+ __Tags:__ Click to filter modules by tags. Combine multiple tags. Deselect by clicking again or selecting 'All'.
-+ __Search Bar:__ Type to filter modules by titles and content dynamically. Clear search using the ‘Clear Search’ button.
-
-<p align="center" width="100%"><video width="700" controls>
-  <source src="images/module_overview_page/module-Filter_tags__participants.mp4" type="video/mp4">
-</video><br>
-<em>Working with different filters</em></p>
+<div class="row">
+  <div class="column">
+    <div align="center" width="100">
+      <video width="550" controls>
+        <source src="images/module_overview_page/module-Filter_tags__participants.mp4" type="video/mp4">
+      </video><br>
+      <em>Working with different filters</em>
+    </div>
+  </div>
+  <div class="column">
+    <p><b>Filters: Update the list of modules dynamically using four options:</b></p> 
+    <ul>
+      <li><b>Difficulty Level:</b> Choose from easy, medium, and advanced. Multiple selections allowed.</li>
+      <li><b>Max. Participants:</b> Filter by maximum number of participants. Multiple options can be selected.</li>
+      <li><b>Tags:</b> Click to filter modules by tags. Combine multiple tags. Deselect by clicking again or selecting 'All'.</li>
+      <li><b>Search Bar:</b> Type to filter modules by titles and content dynamically. Clear search using the ‘Clear Search’ button.</li>
+    </ul>
+  </div>
+</div>
 
 ### Module Selection
 
