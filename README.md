@@ -40,29 +40,18 @@ Webinar 1: #ASKtraining - What’s On?
 <p align="center" width="100%"><img width="600" src="images/module_overview_page/module_overview.png" alt="Module Overview Page"/><br><em>The Module Overview Page</em></p>
 
 ### Understanding module boxes
-<!-- __Each module focuses on a specific topic with related resources.__  
-
-Additional information every Module provides:
-+ Max. Participants
-+ Difficulty Level
-+ License
-
-<p align="center" width="100%">
-<video height="600" controls>
-  <source src="images/module_overview_page/module-topic_additional_info.mp4" type="video/mp4">
-</video><br><em>Module Box with informations</em></p> -->
-
 <div class="row">
   <div class="column">
     <div align="center" width="100">
-      <video width="300" controls>
+      <video width="350" controls>
         <source src="images/module_overview_page/module-topic_additional_info.mp4" type="video/mp4">
       </video><br>
       <em>Module Box with informations</em>
     </div>
   </div>
   <div class="column">
-    <b>Each module focuses on a specific topic with related resources:</b><br><br> 
+    <b>Each module focuses on a specific topic with related resources</b><br><br>
+    <p>Additional information every Module provides:</p> 
     <ul>
       <li>Max. Participants</li>
       <li>Difficulty Level</li>
@@ -71,15 +60,32 @@ Additional information every Module provides:
   </div>
 </div>
 
-### Module Tags
-Modules have tags that categorize them based on their topic
-Clicking a tag updates the list of modules with the same tag.
-Icons are clickable too and serve also as filters.
+### Tags & Icons
 
-<p align="center" width="100%">
+<div class="row">
+  <div class="column">
+    <p>Modules have tags that categorize them based on their topic
+Clicking a tag updates the list of modules with the same tag.</p>
+    <br>
+    <p>Modules can also be filtered by <b>Max. Participants</b> and <b>Difficulty Level</b>. Clicking the icons dynamically updates the list of modules.</p>
+  </div>
+
+  <div class="column">
+    <div align="center" width="100">
+      <video width="700" controls>
+        <source src="images/module_overview_page/module-icons__tags_as_filter.mp4" type="video/mp4">
+      </video>
+      <br>
+      <em>Using tags and additonal information as filters</em>
+    </div>
+  </div>
+  
+</div>
+
+<!-- <p align="center" width="100%">
 <video width="700" controls>
   <source src="images/module_overview_page/module-icons__tags_as_filter.mp4" type="video/mp4">
-</video><br><em>Using tags and additonal information as filters</em></p>
+</video><br><em>Using tags and additonal information as filters</em></p> -->
 
 ### Module Preview
 
@@ -94,6 +100,27 @@ Click the module title to see:
   <source src="images/module_overview_page/module-module_preview_red.mp4" type="video/mp4">
 </video><br>
 <em>Module preview</em></p>
+
+
+<div class="row">
+  <div class="column">
+    <div align="center" width="100">
+      <video width="350" controls>
+        <source src="images/module_overview_page/module-topic_additional_info.mp4" type="video/mp4">
+      </video><br>
+      <em>Module Box with informations</em>
+    </div>
+  </div>
+  <div class="column">
+    <b>Each module focuses on a specific topic with related resources</b><br><br>
+    <p>Additional information every Module provides:</p> 
+    <ul>
+      <li>Max. Participants</li>
+      <li>Difficulty Level</li>
+      <li>License</li>
+    </ul>
+  </div>
+</div>
 
 ### Filters, tags & search bar
 
