@@ -188,8 +188,6 @@ Clicking a tag updates the list of modules with the same tag.</p>
     <em>Using the Search Bar to find Modules</em>
     </div>
 
-<br>
-
 <div class="row">
   <div class="column">
     <ul>
