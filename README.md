@@ -86,36 +86,23 @@ Clicking a tag updates the list of modules with the same tag.</p>
 </video><br><em>Using tags and additonal information as filters</em></p> -->
 
 ### Module Preview
-
-Click the module title to see:
-+ Learning objectives
-+ Introduction time
-+ Minimum required trainers
-+ Associated resources
-+ and other related information
-
-<p align="center" width="100%"><video width="700" controls>
-  <source src="images/module_overview_page/module-module_preview_red.mp4" type="video/mp4">
-</video><br>
-<em>Module preview</em></p>
-
-
 <div class="row">
   <div class="column">
     <div align="center" width="100">
-      <video width="350" controls>
-        <source src="images/module_overview_page/module-topic_additional_info.mp4" type="video/mp4">
+      <video width="500" controls>
+        <source src="images/module_overview_page/module-module_preview_red.mp4" type="video/mp4">
       </video><br>
-      <em>Module Box with informations</em>
+      <em>Module preview</em>
     </div>
   </div>
   <div class="column">
-    <b>Each module focuses on a specific topic with related resources</b><br><br>
-    <p>Additional information every Module provides:</p> 
+    <p><b>Click the module title to see:</b></p> 
     <ul>
-      <li>Max. Participants</li>
-      <li>Difficulty Level</li>
-      <li>License</li>
+      <li>Learning objectives</li>
+      <li>Introduction time</li>
+      <li>Minimum required trainers</li>
+      <li>Associated resources</li>
+      <li>and other related information</li>
     </ul>
   </div>
 </div>
