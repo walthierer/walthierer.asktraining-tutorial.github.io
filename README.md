@@ -182,23 +182,25 @@ Clicking a tag updates the list of modules with the same tag.</p>
 </div>
 
 ### Search Bar
-<div class="row">
-  <div class="column">
-    <div align="center" width="100">
-      <video width="550" controls>
+<div align="center" width="100">
+      <video width="700" controls>
         <source src="images/training_planner/08_training_drag__drop.mp4" type="video/mp4"></video><br>
     <em>Using the Search Bar to find Modules</em>
     </div>
-  </div>
+
+<br>
+
+<div class="row">
   <div class="column">
-    <div align="center" width="100">
-      <ul>
+    <ul>
         <li>Dynamically updates the list as you type.</li>
         <li>Filters by titles and content of modules.</li>
         <li>Use the ‘Clear Search’ button to reset.</li>
         <li>Located beneath the tags in the upper left corner.</li>
       </ul>
-      <br>
+  </div>
+  <div class="column">
+    <div align="center" width="100">
       <img width="300" src="images/training_planner/11_training_searchbar_&_collapesd_filter.png" alt="Search Bar"><br>
       <em>Search Bar</em>
     </div>
