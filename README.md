@@ -17,19 +17,25 @@ __Description:__
 Join our webinar on #ASKtraining and unlock the full potential of this powerful online tool. Designed specifically for #ASKnet members, this session will walk you through its purpose, target groups, and core functionalities. Learn how to navigate the platform, use the filter function, and customize your training modules with ease. [You’ll also discover handy features like saving your training as a PDF and generating summaries.] By participating, you’ll have the skills to design your own training program, making your sessions more organized and impactful. Don’t miss out on this opportunity to enhance your training experience and boost your productivity!
 
 __Table of Content:__
-[toc]
 
-Webinar 1: #ASKtraining - What’s On?
-1. Introduction: What is #ASKtraining? Who is it for?
-   + Overview of #ASKtraining
-   + Target groups and primary users
-2. The Module Overview Page
-   + Understanding module boxes
-   + Using filters, tags, and the search bar
-3. The #ASKtraining Planner
-   + Customising your training plan
-   + Adding, ordering, and timing modules
+- [Webinar 1: #ASKtraining - What’s On?](#webinar-1-asktraining---whats-on)
+  - [Intro fehlt noch!!](#intro-fehlt-noch)
+  - [Module Overview Page](#module-overview-page)
+    - [Understanding module boxes](#understanding-module-boxes)
+    - [Tags \& Icons](#tags--icons)
+    - [Module Preview](#module-preview)
+    - [Filters, Tags \& Search Bar](#filters-tags--search-bar)
+    - [Module Selection](#module-selection)
+  - [#ASKtraining Planner](#asktraining-planner)
+    - [The two main components](#the-two-main-components)
+    - [Module Tags](#module-tags)
+    - [Search Bar](#search-bar)
+    - [Title your Training](#title-your-training)
+    - [Personalise Modules](#personalise-modules)
+    - [Plan it your way!](#plan-it-your-way)
+
   
+## Intro fehlt noch!!
 
 ## Module Overview Page
 
@@ -239,5 +245,30 @@ Clicking a tag updates the list of modules with the same tag.</p>
       <li>Click on the <b>'Edit'</b>buttons or icons to bring up the edit pop-up.</li>
       <li>Save your changes</li>
     </ul>
+  </div>
+</div>
+
+### Plan it your way!
+
+<div class="row">
+  <div class="column">
+    <b>Adjust times, modify descriptions, and specify the order of modules.</b><br>
+    <br>
+    <img width="400" src="images/training_planner/move_module_icon.png" alt="Move modules"><br>
+    <div align="center" width="100"><em>Move modules</em></div><br>
+    <img width="400" src="images/training_planner/edit_time_slot.png" alt="Editing the time slot"><br>
+    <div align="center" width="100"><em>Editing the time slot</em></div><br>
+    <b>Break it up!</b>
+    <p>Specify timing, duration, lunch and coffee breaks!</p>
+    <br>
+    <b>Adjust order of Modules</b>
+    <p>Change the order of modules  by dragging and dropping to adjust your training schedule design</p>
+  </div>
+    <div class="column">
+    <div align="center" width="100">
+      <video width="550" controls>
+        <source src="images/training_planner/09.1_training_order_modules_timing.mp4" type="video/mp4"></video><br>
+    <em>Adjust order of Modules</em>
+    </div>
   </div>
 </div>
