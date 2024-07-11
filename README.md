@@ -10,7 +10,10 @@
   flex: 50%;
   padding: 5px;}
 
-  h1, h2, h3, h4, h5, h6, b, p {
+  h1 {
+    color: white;
+  } 
+  h2, h3, h4, h5, h6, b, p {
     font-family: 'Noto Sans'; color: black;
 }
 body {
