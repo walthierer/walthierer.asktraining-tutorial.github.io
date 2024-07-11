@@ -249,23 +249,23 @@ Clicking a tag updates the list of modules with the same tag.</p>
 </div>
 
 ### Plan it your way!
-
+<b>Adjust times, modify descriptions, and specify the order of modules.</b><br>
 <div class="row">
   <div class="column">
-    <b>Adjust times, modify descriptions, and specify the order of modules.</b><br>
-    <br>
     <img width="400" src="images/training_planner/move_module_icon.png" alt="Move modules"><br>
-    <div align="center" width="100"><em>Move modules</em></div><br>
+    <div align="center" width="100">
+      <em>Move modules</em></div><br>
     <img width="400" src="images/training_planner/edit_time_slot.png" alt="Editing the time slot"><br>
-    <div align="center" width="100"><em>Editing the time slot</em></div><br>
+    <div align="center" width="100">
+      <em>Editing the time slot</em></div><br>
     <b>Break it up!</b>
     <p>Specify timing, duration, lunch and coffee breaks!</p>
     <br>
-    <b>Adjust order of Modules</b>
-    <p>Change the order of modules  by dragging and dropping to adjust your training schedule design</p>
   </div>
   <div class="column">
     <div align="center" width="100">
+      <b>Adjust order of Modules</b>
+      <p>Change the order of modules  by dragging and dropping to adjust your training schedule design</p>
       <video width="450" controls>
         <source src="images/training_planner/09.1_training_order_modules_timing.mp4" type="video/mp4"></video><br>
     <em>Adjust order of Modules</em>
