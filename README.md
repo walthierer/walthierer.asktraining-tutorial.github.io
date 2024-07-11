@@ -22,37 +22,35 @@ h3 {
 
 <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
 
-# Webinar 1: #ASKtraining - What’s On?
+<h1>Webinar 1: #ASKtraining - What’s On?</h1>
 
 __Description:__
 Join our webinar on #ASKtraining and unlock the full potential of this powerful online tool. Designed specifically for #ASKnet members, this session will walk you through its purpose, target groups, and core functionalities. Learn how to navigate the platform, use the filter function, and customize your training modules with ease. [You’ll also discover handy features like saving your training as a PDF and generating summaries.] By participating, you’ll have the skills to design your own training program, making your sessions more organized and impactful. Don’t miss out on this opportunity to enhance your training experience and boost your productivity!
 
 __Table of Content:__
 
-- [Webinar 1: #ASKtraining - What’s On?](#webinar-1-asktraining---whats-on)
-  - [Intro fehlt noch!!](#intro-fehlt-noch)
-  - [Module Overview Page](#module-overview-page)
-    - [Understanding module boxes](#understanding-module-boxes)
-    - [Tags \& Icons](#tags--icons)
-    - [Module Preview](#module-preview)
-    - [Filters, Tags \& Search Bar](#filters-tags--search-bar)
-    - [Module Selection](#module-selection)
-  - [#ASKtraining Planner](#asktraining-planner)
-    - [The two main components](#the-two-main-components)
-    - [Module Tags](#module-tags)
-    - [Search Bar](#search-bar)
-    - [Title your Training](#title-your-training)
-    - [Personalise Modules](#personalise-modules)
-    - [Plan it your way!](#plan-it-your-way)
-    - [Module Time Slots](#module-time-slots)
-    - [Day Break](#day-break)
-    - [Introduction and Duration](#introduction-and-duration)
-    - [Introduction and Duration](#introduction-and-duration-1)
-    - [Useful Features: Overview \& Summary](#useful-features-overview--summary)
-    - [Useful Features: Resource Costs \& Print PDF](#useful-features-resource-costs--print-pdf)
+- [Module Overview Page](#module-overview-page)
+  - [Understanding module boxes](#understanding-module-boxes)
+  - [Tags \& Icons](#tags--icons)
+  - [Module Preview](#module-preview)
+  - [Filters, Tags \& Search Bar](#filters-tags--search-bar)
+  - [Module Selection](#module-selection)
+- [#ASKtraining Planner](#asktraining-planner)
+  - [The two main components](#the-two-main-components)
+  - [Module Tags](#module-tags)
+  - [Search Bar](#search-bar)
+  - [Title your Training](#title-your-training)
+  - [Personalise Modules](#personalise-modules)
+  - [Plan it your way!](#plan-it-your-way)
+  - [Module Time Slots](#module-time-slots)
+  - [Day Break](#day-break)
+  - [Introduction and Duration](#introduction-and-duration)
+  - [Introduction and Duration](#introduction-and-duration-1)
+  - [Useful Features: Overview \& Summary](#useful-features-overview--summary)
+  - [Useful Features: Resource Costs \& Print PDF](#useful-features-resource-costs--print-pdf)
 
   
-## Intro fehlt noch!!
+ <h2>Intro fehlt noch!!</h2>
 
 ## Module Overview Page
 
