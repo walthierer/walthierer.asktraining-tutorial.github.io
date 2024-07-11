@@ -10,20 +10,14 @@
   flex: 50%;
   padding: 5px;}
 
-  h1, h2, h3, h4, h5, h6 {
-    font-family: 'Noto Sans';
-    color: black;
+  h1, h2, h3, h4, h5, h6, b, p {
+    font-family: 'Noto Sans'; color: black;
 }
 body {
   font-family: 'Noto Sans';}
 
 h3 {
   font-size: 2rem;}
-
-b {
-  color: black;
-}
-
 </style>
 
 <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
@@ -55,7 +49,7 @@ __Table of Content:__
     - [Introduction and Duration](#introduction-and-duration)
     - [Introduction and Duration](#introduction-and-duration-1)
     - [Useful Features: Overview \& Summary](#useful-features-overview--summary)
-    - [Useful Features: Resource Costs \& PRINT PDF](#useful-features-resource-costs--print-pdf)
+    - [Useful Features: Resource Costs \& Print PDF](#useful-features-resource-costs--print-pdf)
 
   
 ## Intro fehlt noch!!
@@ -418,7 +412,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   </div>
 </div>
 
-### Useful Features: Resource Costs & PRINT PDF
+### Useful Features: Resource Costs & Print PDF
 <div class="row">
   <div class="column">
     <b>List of Resources and Estimated Costs</b>
