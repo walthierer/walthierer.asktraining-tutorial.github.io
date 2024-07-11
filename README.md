@@ -11,13 +11,14 @@
   padding: 5px;}
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Noto Sans';}
+    font-family: 'Noto Sans';
+    color: black;
+}
 body {
   font-family: 'Noto Sans';}
 
   h3 {
     font-size: 2rem;
-    color: black;
   }
 </style>
 
@@ -197,7 +198,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   </div>
 
   <div class="column">
-    <img width="300" src="images/training_planner/filter_tags.png" alt="List of tags"><br>
+    <img width="auto" src="images/training_planner/filter_tags.png" alt="List of tags"><br>
     <div align="center" width="100"><em>List of tags</em></div><br>
     <ul>
       <li>Comprehensive list of modules with filter and search options.</li>
@@ -226,7 +227,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   </div>
   <div class="column">
     <div align="center" width="100">
-      <img width="300" src="images/training_planner/11_training_searchbar_&_collapesd_filter.png" alt="Search Bar"><br>
+      <img width="auto" src="images/training_planner/11_training_searchbar_&_collapesd_filter.png" alt="Search Bar"><br>
       <em>Search Bar</em>
     </div>
   </div>
@@ -273,12 +274,12 @@ Clicking a tag updates the list of modules with the same tag.</p>
 <p align="center"><b>Adjust times, modify descriptions, and specify the order of modules.</b></p>
 <div class="row">
   <div class="column">
-    <img width="400" src="images/training_planner/move_module_icon.png" alt="Move modules"><br>
+    <img width="auto" src="images/training_planner/move_module_icon.png" alt="Move modules"><br>
     <div align="center" width="100">
       <em>Move modules</em></div><br>
     <p><b>Break it up!</b><br>
     Specify timing, duration, lunch and coffee breaks!</p>
-    <img width="400" src="images/training_planner/edit_time_slot.png" alt="Editing the time slot"><br>
+    <img width="auto" src="images/training_planner/edit_time_slot.png" alt="Editing the time slot"><br>
     <div align="center" width="100">
       <em>Editing the time slot</em></div><br>
     <p><b>Adjust order of Modules</b><br>
@@ -340,7 +341,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   <li>Change title, duration, and start time with the pen icon.</li>
 </ul>
 <p align="center" width="100%">
-  <img width="550" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
+  <img width="auto" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
   <em>Introduction into the Training</em>
 </p>
 <b>Title, Duration, and Start Time</b>
@@ -365,7 +366,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
       <li>Default 15-minute introduction for each training/module.</li>
       <li>Change title, duration, and start time with the pen icon.</li>
     </ul>
-    <img width="400" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
+    <img width="auto" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
     <div align="center" width="100">
       <em>Introduction into the Training</em></div><br>
     <b>Title, Duration, and Start Time</b>
@@ -388,7 +389,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
 ### Useful Features: Overview & Summary
 <div class="row">
   <div class="column"> 
-    <img heigth="200" src="images/training_planner/16_training_schedule.png" alt="Schedule Overview"><br>
+    <img widht="auto" src="images/training_planner/16_training_schedule.png" alt="Schedule Overview"><br>
     <div align="center" width="100">
       <em>Schedule Overview</em></div><br>
     <b>Schedule Overview</b>
@@ -399,7 +400,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
     </ul>
   </div>
   <div class="column"> 
-    <img widht="auto" height="200" src="images/training_planner/17_training_summary.png" alt="Summary"><br>
+    <img widht="auto" src="images/training_planner/17_training_summary.png" alt="Summary"><br>
     <div align="center" width="100">
       <em>Summary</em></div>
     <!-- <br>
