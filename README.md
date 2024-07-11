@@ -10,6 +10,10 @@
   flex: 50%;
   padding: 5px;}
 
+.column3 {
+  flex: 33.3%;
+  padding: 5px;}
+
 h1 {
   color: white;} 
 
@@ -52,7 +56,39 @@ __Table of Content:__
     - [Useful Features: Resource Costs \& Print PDF](#useful-features-resource-costs--print-pdf)
 
   
-<h2>Intro fehlt noch!!</h2>
+<h2>#ASKtraining - Who is it for?</h2>
+<div class="row">
+  <div class="column3">
+    <b>Developed to support #ASKnet members (contributors, trainers, participants)</b>
+    <ul>
+      <li>Open design allows for users outside #ASKnet</li>
+      <li>Contributors add their skills and knowledge</li>
+      <li>Trainers access a wide range of modules</li>
+      <li>Participants easily find references and resources</li>
+    </ul> <br>
+  </div>
+  <div class="column3">
+      <b>Each module focuses on a specific topic with related resources</b><br>
+      <ul>
+        <li>Design and organize trainings</li>
+        <li>Co-create trainings within #ASKnet</li>
+        <li>Represent collective capacities</li>
+        <li>Collect Open Educational Resources</li>
+        <li>Save time on research, resources, and data</li>
+    </ul>
+  </div>
+  <div class="column3">
+    <b>Participants use it to:</b>
+    <p>Additional information every Module provides:</p> 
+    <ul>
+      <li>Access a collection of links to educational resources</li>
+      <li>Build on their existing skills and knowledge</li>
+      <li>Connect with like-minded community members</li>
+      <li>Create their own training and become skilled trainers!</li>
+    </ul>
+  </div>
+</div>
+
 
 ## Module Overview Page
 
