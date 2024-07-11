@@ -316,3 +316,29 @@ Clicking a tag updates the list of modules with the same tag.</p>
 </div>
 
 ### Introduction and Duration
+<div class="row">
+  <div class="column"> 
+    <b>Introduction in Training Modules</b>
+    <ul>
+      <li>Default 15-minute introduction for each training/module.</li>
+      <li>Change title, duration, and start time with the pen icon.</li>
+    </ul>
+    <img width="400" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
+    <div align="center" width="100">
+      <em>Introduction into the Training</em></div><br>
+    <b>Title, Duration, and Start Time</b>
+    <ul>
+      <li>Rearrange resources within modules by dragging.</li>
+      <li>Adjust resource duration using the pen icon.</li>
+    </ul>
+  </div>
+  <div class="column">
+    <div align="center" width="100">
+      <video width="450" controls>
+        <source src="images/training_planner/13_training_day_break.mp4" type="video/mp4">
+      </video><br>
+      <em>Adding a Day Break</em>
+    </div>
+    <p>Dynamic updates to the start time of subsequent modules and resources</p>
+  </div>
+</div>
