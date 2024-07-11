@@ -204,3 +204,40 @@ Clicking a tag updates the list of modules with the same tag.</p>
     </div>
   </div>
 </div>
+
+### Title your Training
+<div class="row">
+  <div class="column">
+    <div align="center" width="100">
+      <video width="550" controls>
+        <source src="images/training_planner/09_training_description.mp4" type="video/mp4">
+      </video><br>
+      <em>Editing title and description of the training</em>
+    </div>
+  </div>
+  <div class="column"> 
+    <ul>
+      <li>Edit the title and description of your course</li>
+      <li>Click on <b>‘Edit title and description’</b> to bring up the edit pop-up.</li>
+    </ul>
+  </div>
+</div>
+
+### Personalise Modules 
+<div class="row">
+  <div class="column">
+    <div align="center" width="100">
+      <video width="550" controls>
+        <source src="images/training_planner/training-add_notes.mp4" type="video/mp4">
+      </video><br>
+      <em>Adding personal notes to Modules and Resources</em>
+    </div>
+  </div>
+  <div class="column"> 
+    <ul>
+      <li>Add personal notes to selected modules and resources</li>
+      <li>Click on the <b>'Edit'</b>buttons or icons to bring up the edit pop-up.</li>
+      <li>Save your changes</li>
+    </ul>
+  </div>
+</div>
