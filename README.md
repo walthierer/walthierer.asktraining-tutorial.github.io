@@ -5,10 +5,15 @@
 .row {
   display: flex;}
 
-/* Create three two columns that sits next to each other */
+/* Create two columns that sits next to each other */
 .column {
   flex: 50%;
   padding: 5px;}
+
+.center {
+  margin: auto;
+  width: 80%;
+  }
 </style>
 
 # Webinar 1: #ASKtraining - What’s On?
@@ -36,6 +41,7 @@ __Table of Content:__
     - [Module Time Slots](#module-time-slots)
     - [Day Break](#day-break)
     - [Introduction and Duration](#introduction-and-duration)
+    - [Useful Features: Overview \& Summary](#useful-features-overview--summary)
 
   
 ## Intro fehlt noch!!
@@ -152,20 +158,22 @@ Clicking a tag updates the list of modules with the same tag.</p>
 </div>
 
 ## #ASKtraining Planner
-
 + Get started with the #ASKnet Training Planner.
 + Explore the user interface and understand its functionalities.
 + Enter through the Module Overview Page with preselected modules.
 + Learn how to customize your training plan, including titles, descriptions, and schedules.
 
-### The two main components 
-<p align="center" width="100%"><img width="800" src="images/training_planner/07_training_main_area.png" alt="#ASKtraining Planner"/><br><em>Sidebar with modules on the left<br>Training Planner in the center</em></p>
+<br>
 
-<ul>
-  <li>Training Planner (Central Area)</li>
-  <li>Main area to plan your training</li>
-  <li>List of modules to add on the left</li>
-</ul>
+### The two main components 
+<div class="center">
+  <p align="center" width="100%"><img width="800" src="images/training_planner/07_training_main_area.png" alt="#ASKtraining Planner"/><br><em>Sidebar with modules on the left<br>Training Planner in the center</em></p>
+  <ul>
+    <li>Training Planner (Central Area)</li>
+    <li>Main area to plan your training</li>
+    <li>List of modules to add on the left</li>
+  </ul>
+</div>
 
 
 ### Module Tags
@@ -316,6 +324,59 @@ Clicking a tag updates the list of modules with the same tag.</p>
 </div>
 
 ### Introduction and Duration
+<div class="center"> 
+  <b>Introduction in Training Modules</b>    
+  <ul>
+    <li>Default 15-minute introduction for each training/module.</li>
+    <li>Change title, duration, and start time with the pen icon.</li>
+  </ul>
+  <img width="550" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
+  <div align="center" width="100">
+    <em>Introduction into the Training</em>
+  </div><br>
+  <b>Title, Duration, and Start Time</b>
+  <ul>
+    <li>Rearrange resources within modules by dragging.</li>
+    <li>Adjust resource duration using the pen icon.</li>
+  </ul>
+  <video width="550" controls>
+    <source src="images/training_planner/14_training_order_duration_resources.mp4" type="video/mp4">
+  </video><br>
+  <div align="center" width="100">
+    <em>Adding a Day Break</em>
+  </div><br>
+  <p>Dynamic updates to the start time of subsequent modules and resources</p> 
+</div>
+
+
+### Useful Features: Overview & Summary
+
+<b>Introduction in Training Modules</b>    
+<ul>
+  <li>Default 15-minute introduction for each training/module.</li>
+  <li>Change title, duration, and start time with the pen icon.</li>
+</ul>
+<img width="550" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
+<div align="center" width="100">
+  <em>Introduction into the Training</em>
+</div><br>
+
+<b>Title, Duration, and Start Time</b>
+<ul>
+  <li>Rearrange resources within modules by dragging.</li>
+  <li>Adjust resource duration using the pen icon.</li>
+</ul>
+
+<video width="550" controls>
+  <source src="images/training_planner/14_training_order_duration_resources.mp4" type="video/mp4">
+</video><br>
+<div align="center" width="100">
+  <em>Adding a Day Break</em>
+</div>
+<p>Dynamic updates to the start time of subsequent modules and resources</p>  
+
+
+
 <div class="row">
   <div class="column"> 
     <b>Introduction in Training Modules</b>
@@ -335,7 +396,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   <div class="column">
     <div align="center" width="100">
       <video width="450" controls>
-        <source src="images/training_planner/13_training_day_break.mp4" type="video/mp4">
+        <source src="images/training_planner/14_training_order_duration_resources.mp4" type="video/mp4">
       </video><br>
       <em>Adding a Day Break</em>
     </div>
