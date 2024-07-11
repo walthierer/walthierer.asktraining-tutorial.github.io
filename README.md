@@ -383,24 +383,25 @@ Clicking a tag updates the list of modules with the same tag.</p>
 ### Useful Features: Overview & Summary
 <div class="row">
   <div class="column"> 
-    <img width="400" src="images/training_planner/16_training_schedule.png" alt="Introduction into the Training"><br>
+    <img width="400" src="images/training_planner/16_training_schedule.png" alt="Schedule Overview"><br>
     <div align="center" width="100">
-      <em>Introduction into the Training</em></div><br>
+      <em>Schedule Overview</em></div><br>
     <b>Schedule Overview</b>
     <ul>
-      <li>Automatically generated</li>
+      <li>Automatically generated.</li>
       <li>Lists all training modules by time and day.</li>
       <li>Access by clicking on the arrow icon.</li>
     </ul>
   </div>
   <div class="column"> 
-    <img width="400" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
+    <img width="400" src="images/training_planner/17_training_summary.png" alt="Summary"><br>
     <div align="center" width="100">
-      <em>Introduction into the Training</em></div><br>
-    <b>Introduction in Training Modules</b>
+      <em>Summary</em></div><br>
+    <b>Summary</b>
     <ul>
-      <li>Default 15-minute introduction for each training/module.</li>
-      <li>Change title, duration, and start time with the pen icon.</li>
+      <li>Provides overall duration and module count.</li>
+      <li>Analyzes participant numbers and minimum requirements for resources and modules.</li>
+      <li>Calculates minimum required trainers and highest difficulty level.</li>
     </ul>
   </div>
 </div>
