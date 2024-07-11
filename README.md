@@ -35,6 +35,7 @@ __Table of Content:__
     - [Plan it your way!](#plan-it-your-way)
     - [Module Time Slots](#module-time-slots)
     - [Day Break](#day-break)
+    - [Introduction and Duration](#introduction-and-duration)
 
   
 ## Intro fehlt noch!!
@@ -257,13 +258,13 @@ Clicking a tag updates the list of modules with the same tag.</p>
     <img width="400" src="images/training_planner/move_module_icon.png" alt="Move modules"><br>
     <div align="center" width="100">
       <em>Move modules</em></div><br>
-    <b>Break it up!</b>
-    <p>Specify timing, duration, lunch and coffee breaks!</p>
+    <p><b>Break it up!</b><br>
+    Specify timing, duration, lunch and coffee breaks!</p>
     <img width="400" src="images/training_planner/edit_time_slot.png" alt="Editing the time slot"><br>
     <div align="center" width="100">
       <em>Editing the time slot</em></div><br>
-    <b>Adjust order of Modules</b>
-    <p>Change the order of modules  by dragging and dropping to adjust your training schedule design</p>
+    <p><b>Adjust order of Modules</b><br>
+    Change the order of modules  by dragging and dropping to adjust your training schedule design</p>
   </div>
   <div class="column">
     <div align="center" width="100">
@@ -307,9 +308,11 @@ Clicking a tag updates the list of modules with the same tag.</p>
   <div class="column">
     <div align="center" width="100">
       <video width="550" controls>
-        <source src="images/training_planner/13_training_day_break.mp4 type="video/mp4">
+        <source src="images/training_planner/13_training_day_break.mp4" type="video/mp4">
       </video><br>
       <em>Adding a Day Break</em>
     </div>
   </div>
 </div>
+
+### Introduction and Duration
