@@ -33,6 +33,8 @@ __Table of Content:__
     - [Title your Training](#title-your-training)
     - [Personalise Modules](#personalise-modules)
     - [Plan it your way!](#plan-it-your-way)
+    - [Module Time Slots](#module-time-slots)
+    - [Day Break](#day-break)
 
   
 ## Intro fehlt noch!!
@@ -249,7 +251,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
 </div>
 
 ### Plan it your way!
-<b>Adjust times, modify descriptions, and specify the order of modules.</b><br>
+<p align="center"><b>Adjust times, modify descriptions, and specify the order of modules.</b></p>
 <div class="row">
   <div class="column">
     <img width="400" src="images/training_planner/move_module_icon.png" alt="Move modules"><br>
@@ -268,6 +270,46 @@ Clicking a tag updates the list of modules with the same tag.</p>
       <video width="450" controls>
         <source src="images/training_planner/09.1_training_order_modules_timing.mp4" type="video/mp4"></video><br>
     <em>Adjust order of Modules</em>
+    </div>
+  </div>
+</div>
+
+### Module Time Slots
+<div class="row">
+  <div class="column">
+    <div align="center" width="100">
+      <video width="550" controls>
+        <source src="images/training_planner/12_training_time_slot.mp4" type="video/mp4">
+      </video><br>
+      <em>Adding a lunch break</em>
+    </div>
+  </div>
+  <div class="column"> 
+    <b>Time Slots</b>
+    <ul>
+      <li>Drag and drop to insert breaks (e.g., lunch, coffee).</li>
+      <li>Adjust duration and rename using the pen icon.</li>
+      <li>Delet them by cliicking the 'x' on the right side</li>
+    </ul>
+  </div>
+</div>
+
+### Day Break
+<div class="row">
+  <div class="column"> 
+    <b>Day Break</b>
+    <ul>
+      <li>Allows continuation of training on the next day.</li>
+      <li>Next module starts automatically at 9:00 am.</li>
+      <li>Edit duration and rename.</li>
+    </ul>
+  </div>
+  <div class="column">
+    <div align="center" width="100">
+      <video width="550" controls>
+        <source src="images/training_planner/13_training_day_break.mp4 type="video/mp4">
+      </video><br>
+      <em>Adding a Day Break</em>
     </div>
   </div>
 </div>
