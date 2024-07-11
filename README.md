@@ -18,7 +18,10 @@ h1 {
   color: white;} 
 
 h2, h3, h4, h5, h6, b, p {
-  font-family: 'Noto Sans'; color: black;
+  font-family: 'Noto Sans'; color: black !important;
+}
+h3 {
+  font-size:1.5em !important;
 }
 
 body {
