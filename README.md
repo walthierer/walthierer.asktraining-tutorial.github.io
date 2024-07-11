@@ -35,6 +35,8 @@ Join our webinar on #ASKtraining and unlock the full potential of this powerful 
 __Table of Content:__
 
 - [Webinar 1: #ASKtraining - What’s On?](#webinar-1-asktraining---whats-on)
+  - [#ASKtraining - Who is it for?](#asktraining---who-is-it-for)
+  - [Understand + use the #ASKtraining platform](#understand--use-the-asktraining-platform)
   - [Module Overview Page](#module-overview-page)
     - [Understanding module boxes](#understanding-module-boxes)
     - [Tags \& Icons](#tags--icons)
@@ -56,10 +58,10 @@ __Table of Content:__
     - [Useful Features: Resource Costs \& Print PDF](#useful-features-resource-costs--print-pdf)
 
   
-<h2>#ASKtraining - Who is it for?</h2>
+## #ASKtraining - Who is it for?</h2>
 <div class="row">
   <div class="column3">
-    <b>Developed to support #ASKnet members (contributors, trainers, participants)</b>
+    <b>Developed to support #ASKnet members</b>
     <ul>
       <li>Open design allows for users outside #ASKnet</li>
       <li>Contributors add their skills and knowledge</li>
@@ -88,6 +90,15 @@ __Table of Content:__
   </div>
 </div>
 
+## Understand + use the #ASKtraining platform
+ <b>What is #ASKtraining?:</b>
+    <ul>
+      <li>Understand Modules: Each module focuses on a specific topic with related resources.</li>
+      <li>Using filters, tags, and the search bar</li>
+      <li>Get started with the #ASKnet Training Planner.</li>
+      <li>Learn how to customize your training plan, including titles, descriptions, trainers, and schedules</li>
+      <li>Create Your Own Training Plan</li>
+    </ul>
 
 ## Module Overview Page
 
