@@ -69,7 +69,7 @@ __Table of Content:__
 </div>
 
 ## Understand + use the #ASKtraining platform
-<b>What is #ASKtraining?:</b>
+<b>What is #ASKtraining?</b>
 <ul>
   <li>Understand Modules: Each module focuses on a specific topic with related resources.</li>
   <li>Using filters, tags, and the search bar</li>      
