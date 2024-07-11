@@ -10,17 +10,15 @@
   flex: 50%;
   padding: 5px;}
 
-  h1 {
-    color: white;
-  } 
-  h2, h3, h4, h5, h6, b, p {
-    font-family: 'Noto Sans'; color: black;
+h1 {
+  color: white;} 
+
+h2, h3, h4, h5, h6, b, p {
+  font-family: 'Noto Sans'; color: black;
 }
+
 body {
   font-family: 'Noto Sans';}
-
-h3 {
-  font-size: 2rem;}
 </style>
 
 <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
