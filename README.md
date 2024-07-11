@@ -11,11 +11,16 @@
   padding: 5px;}
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Noto Sans';;
-  }
+    font-family: 'Noto Sans';}
 body {
   font-family: 'Noto Sans';}
+
+  h3 {
+    font-size: 2rem;
+    color: black;
+  }
 </style>
+
 <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
 
 # Webinar 1: #ASKtraining - What’s On?
@@ -383,7 +388,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
 ### Useful Features: Overview & Summary
 <div class="row">
   <div class="column"> 
-    <img width="400" src="images/training_planner/16_training_schedule.png" alt="Schedule Overview"><br>
+    <img heigth="200" src="images/training_planner/16_training_schedule.png" alt="Schedule Overview"><br>
     <div align="center" width="100">
       <em>Schedule Overview</em></div><br>
     <b>Schedule Overview</b>
@@ -394,10 +399,11 @@ Clicking a tag updates the list of modules with the same tag.</p>
     </ul>
   </div>
   <div class="column"> 
-    <img width="400" src="images/training_planner/17_training_summary.png" alt="Summary"><br>
+    <img widht="auto" height="200" src="images/training_planner/17_training_summary.png" alt="Summary"><br>
     <div align="center" width="100">
-      <em>Summary</em></div><br>
-    <b>Summary</b>
+      <em>Summary</em></div>
+    <!-- <br>
+    <b>Summary</b> -->
     <ul>
       <li>Provides overall duration and module count.</li>
       <li>Analyzes participant numbers and minimum requirements for resources and modules.</li>
