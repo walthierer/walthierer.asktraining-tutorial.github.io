@@ -166,14 +166,16 @@ Clicking a tag updates the list of modules with the same tag.</p>
 <br>
 
 ### The two main components 
-<div class="center">
-  <p align="center" width="100%"><img width="800" src="images/training_planner/07_training_main_area.png" alt="#ASKtraining Planner"/><br><em>Sidebar with modules on the left<br>Training Planner in the center</em></p>
+<!-- <div class="center"> -->
+  <p align="center" width="100%">
+    <img width="800" src="images/training_planner/07_training_main_area.png" alt="#ASKtraining Planner"/><br><em>Sidebar with modules on the left<br>Training Planner in the center</em>
+  </p>
   <ul>
     <li>Training Planner (Central Area)</li>
     <li>Main area to plan your training</li>
     <li>List of modules to add on the left</li>
   </ul>
-</div>
+<!-- </div> -->
 
 
 ### Module Tags
@@ -324,29 +326,27 @@ Clicking a tag updates the list of modules with the same tag.</p>
 </div>
 
 ### Introduction and Duration
-<div class="center"> 
-  <b>Introduction in Training Modules</b>    
-  <ul>
-    <li>Default 15-minute introduction for each training/module.</li>
-    <li>Change title, duration, and start time with the pen icon.</li>
-  </ul>
+<b>Introduction in Training Modules</b>    
+<ul>
+  <li>Default 15-minute introduction for each training/module.</li>
+  <li>Change title, duration, and start time with the pen icon.</li>
+</ul>
+<p align="center" width="100%">
   <img width="550" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
-  <div align="center" width="100">
-    <em>Introduction into the Training</em>
-  </div><br>
-  <b>Title, Duration, and Start Time</b>
-  <ul>
-    <li>Rearrange resources within modules by dragging.</li>
-    <li>Adjust resource duration using the pen icon.</li>
-  </ul>
+  <em>Introduction into the Training</em>
+</p>
+<b>Title, Duration, and Start Time</b>
+<ul>
+  <li>Rearrange resources within modules by dragging.</li>
+  <li>Adjust resource duration using the pen icon.</li>
+  <li>Dynamic updates to the start time of subsequent modules and resources</li>
+</ul><br>
+<div align="center" width="100%">
   <video width="550" controls>
     <source src="images/training_planner/14_training_order_duration_resources.mp4" type="video/mp4">
   </video><br>
-  <div align="center" width="100">
-    <em>Adding a Day Break</em>
-  </div><br>
-  <p>Dynamic updates to the start time of subsequent modules and resources</p> 
-</div>
+  <em>Adding a Day Break</em>
+</div><br> 
 
 
 ### Useful Features: Overview & Summary
@@ -391,6 +391,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
     <ul>
       <li>Rearrange resources within modules by dragging.</li>
       <li>Adjust resource duration using the pen icon.</li>
+      <li>Dynamic updates to the start time of subsequent modules and resources</li>
     </ul>
   </div>
   <div class="column">
