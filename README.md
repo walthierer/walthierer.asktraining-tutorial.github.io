@@ -10,10 +10,11 @@
   flex: 50%;
   padding: 5px;}
 
-.center {
-  margin: auto;
-  width: 80%;
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Sans';;
   }
+body {
+  font-family: 'Noto Sans';}
 </style>
 
 # Webinar 1: #ASKtraining - What’s On?
@@ -343,7 +344,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   <li>Dynamic updates to the start time of subsequent modules and resources</li>
 </ul>
 <div align="center" width="100%">
-  <video width="550" controls>
+  <video width="500" controls>
     <source src="images/training_planner/14_training_order_duration_resources.mp4" type="video/mp4">
   </video><br>
   <em>Adding a Day Break</em>
@@ -379,6 +380,28 @@ Clicking a tag updates the list of modules with the same tag.</p>
 </div>
 
 ### Useful Features: Overview & Summary
-
+<div class="row">
+  <div class="column"> 
+    <img width="400" src="images/training_planner/16_training_schedule.png" alt="Introduction into the Training"><br>
+    <div align="center" width="100">
+      <em>Introduction into the Training</em></div><br>
+    <b>Schedule Overview</b>
+    <ul>
+      <li>Automatically generated</li>
+      <li>Lists all training modules by time and day.</li>
+      <li>Access by clicking on the arrow icon.</li>
+    </ul>
+  </div>
+  <div class="column"> 
+    <img width="400" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
+    <div align="center" width="100">
+      <em>Introduction into the Training</em></div><br>
+    <b>Introduction in Training Modules</b>
+    <ul>
+      <li>Default 15-minute introduction for each training/module.</li>
+      <li>Change title, duration, and start time with the pen icon.</li>
+    </ul>
+  </div>
+</div>
 
 
