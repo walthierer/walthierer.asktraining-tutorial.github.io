@@ -264,9 +264,9 @@ Clicking a tag updates the list of modules with the same tag.</p>
     <b>Adjust order of Modules</b>
     <p>Change the order of modules  by dragging and dropping to adjust your training schedule design</p>
   </div>
-    <div class="column">
+  <div class="column">
     <div align="center" width="100">
-      <video width="550" controls>
+      <video width="450" controls>
         <source src="images/training_planner/09.1_training_order_modules_timing.mp4" type="video/mp4"></video><br>
     <em>Adjust order of Modules</em>
     </div>
