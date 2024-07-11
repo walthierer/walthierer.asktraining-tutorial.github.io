@@ -1,35 +1,7 @@
 <style>
-* {
-  box-sizing: border-box;}
 
-.row {
-  display: flex;}
-
-/* Create two columns that sits next to each other */
-.column {
-  flex: 50%;
-  padding: 5px;}
-
-.column3 {
-  flex: 33.3%;
-  padding: 5px;}
-
-h1 {
-  color: white;} 
-
-h2, h3, h4, h5, h6, b, p {
-  font-family: 'Noto Sans'; color: black !important;
-}
-h3 {
-  font-size:1.5em !important;
-}
-h2 {
-  font-size:1.7em !important;
-}
-
-body {
-  font-family: 'Noto Sans';}
 </style>
+<link rel="stylesheet" href="style.scss">
 
 <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
 
