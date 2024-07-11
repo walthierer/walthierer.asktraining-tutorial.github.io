@@ -94,14 +94,14 @@ __Table of Content:__
 </div>
 
 ## Understand + use the #ASKtraining platform
- <b>What is #ASKtraining?:</b>
-    <ul>
-      <li>Understand Modules: Each module focuses on a specific topic with related resources.</li>
-      <li>Using filters, tags, and the search bar</li>
-      <li>Get started with the #ASKnet Training Planner.</li>
-      <li>Learn how to customize your training plan, including titles, descriptions, trainers, and schedules</li>
-      <li>Create Your Own Training Plan</li>
-    </ul>
+<b>What is #ASKtraining?:</b>
+<ul>
+  <li>Understand Modules: Each module focuses on a specific topic with related resources.</li>
+  <li>Using filters, tags, and the search bar</li>      
+  <li>Get started with the #ASKnet Training Planner.</li>
+  <li>Learn how to customize your training plan, including titles, descriptions, trainers, and schedules</li>    
+  <li>Create Your Own Training Plan</li>
+</ul>
 
 ## Module Overview Page
 
