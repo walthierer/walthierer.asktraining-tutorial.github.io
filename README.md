@@ -61,7 +61,7 @@ __Table of Content:__
     - [Useful Features: Resource Costs \& Print PDF](#useful-features-resource-costs--print-pdf)
 
   
-## #ASKtraining - Who is it for?</h2>
+## #ASKtraining - Who is it for?
 <div class="row">
   <div class="column3">
     <b>Developed to support #ASKnet members</b>
