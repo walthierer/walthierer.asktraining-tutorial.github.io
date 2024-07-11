@@ -401,6 +401,5 @@ Clicking a tag updates the list of modules with the same tag.</p>
       </video><br>
       <em>Adding a Day Break</em>
     </div>
-    <p>Dynamic updates to the start time of subsequent modules and resources</p>
   </div>
 </div>
