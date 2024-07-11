@@ -41,6 +41,7 @@ __Table of Content:__
     - [Module Time Slots](#module-time-slots)
     - [Day Break](#day-break)
     - [Introduction and Duration](#introduction-and-duration)
+    - [Introduction and Duration](#introduction-and-duration-1)
     - [Useful Features: Overview \& Summary](#useful-features-overview--summary)
 
   
@@ -340,7 +341,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   <li>Rearrange resources within modules by dragging.</li>
   <li>Adjust resource duration using the pen icon.</li>
   <li>Dynamic updates to the start time of subsequent modules and resources</li>
-</ul><br>
+</ul>
 <div align="center" width="100%">
   <video width="550" controls>
     <source src="images/training_planner/14_training_order_duration_resources.mp4" type="video/mp4">
@@ -348,34 +349,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   <em>Adding a Day Break</em>
 </div><br> 
 
-
-### Useful Features: Overview & Summary
-
-<b>Introduction in Training Modules</b>    
-<ul>
-  <li>Default 15-minute introduction for each training/module.</li>
-  <li>Change title, duration, and start time with the pen icon.</li>
-</ul>
-<img width="550" src="images/training_planner/training_introduction.png" alt="Introduction into the Training"><br>
-<div align="center" width="100">
-  <em>Introduction into the Training</em>
-</div><br>
-
-<b>Title, Duration, and Start Time</b>
-<ul>
-  <li>Rearrange resources within modules by dragging.</li>
-  <li>Adjust resource duration using the pen icon.</li>
-</ul>
-
-<video width="550" controls>
-  <source src="images/training_planner/14_training_order_duration_resources.mp4" type="video/mp4">
-</video><br>
-<div align="center" width="100">
-  <em>Adding a Day Break</em>
-</div>
-<p>Dynamic updates to the start time of subsequent modules and resources</p>  
-
-
+### Introduction and Duration
 
 <div class="row">
   <div class="column"> 
@@ -403,3 +377,8 @@ Clicking a tag updates the list of modules with the same tag.</p>
     </div>
   </div>
 </div>
+
+### Useful Features: Overview & Summary
+
+
+
