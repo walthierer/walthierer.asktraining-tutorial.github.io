@@ -68,7 +68,7 @@ __Table of Content:__
     </ul> <br>
   </div>
   <div class="column3">
-      <b>Each module focuses on a specific topic with related resources</b><br>
+      <b>Trainers use it to:</b>
       <ul>
         <li>Design and organize trainings</li>
         <li>Co-create trainings within #ASKnet</li>
@@ -79,7 +79,6 @@ __Table of Content:__
   </div>
   <div class="column3">
     <b>Participants use it to:</b>
-    <p>Additional information every Module provides:</p> 
     <ul>
       <li>Access a collection of links to educational resources</li>
       <li>Build on their existing skills and knowledge</li>
