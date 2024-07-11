@@ -16,6 +16,7 @@
 body {
   font-family: 'Noto Sans';}
 </style>
+<link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
 
 # Webinar 1: #ASKtraining - What’s On?
 
