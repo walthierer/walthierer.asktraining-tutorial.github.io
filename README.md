@@ -1,6 +1,3 @@
-<style>
-
-</style>
 <link rel="stylesheet" href="style.scss">
 
 <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
@@ -31,7 +28,6 @@ __Table of Content:__
     - [Module Time Slots](#module-time-slots)
     - [Day Break](#day-break)
     - [Introduction and Duration](#introduction-and-duration)
-    - [Introduction and Duration](#introduction-and-duration-1)
     - [Useful Features: Overview \& Summary](#useful-features-overview--summary)
     - [Useful Features: Resource Costs \& Print PDF](#useful-features-resource-costs--print-pdf)
 
@@ -380,8 +376,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
   <em>Adding a Day Break</em>
 </div><br> 
 
-### Introduction and Duration
-
+<!-- ### Introduction and Duration
 <div class="row">
   <div class="column"> 
     <b>Introduction in Training Modules</b>
@@ -408,7 +403,7 @@ Clicking a tag updates the list of modules with the same tag.</p>
     </div>
   </div>
 </div>
-
+ -->
 ### Useful Features: Overview & Summary
 <div class="row">
   <div class="column"> 
