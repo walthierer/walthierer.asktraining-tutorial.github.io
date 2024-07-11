@@ -17,9 +17,13 @@
 body {
   font-family: 'Noto Sans';}
 
-  h3 {
-    font-size: 2rem;
-  }
+h3 {
+  font-size: 2rem;}
+
+b {
+  color: black;
+}
+
 </style>
 
 <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
@@ -51,6 +55,7 @@ __Table of Content:__
     - [Introduction and Duration](#introduction-and-duration)
     - [Introduction and Duration](#introduction-and-duration-1)
     - [Useful Features: Overview \& Summary](#useful-features-overview--summary)
+    - [Useful Features: Resource Costs \& PRINT PDF](#useful-features-resource-costs--print-pdf)
 
   
 ## Intro fehlt noch!!
@@ -403,8 +408,8 @@ Clicking a tag updates the list of modules with the same tag.</p>
     <img widht="auto" src="images/training_planner/17_training_summary.png" alt="Summary"><br>
     <div align="center" width="100">
       <em>Summary</em></div>
-    <!-- <br>
-    <b>Summary</b> -->
+    <br>
+    <b>Summary</b>
     <ul>
       <li>Provides overall duration and module count.</li>
       <li>Analyzes participant numbers and minimum requirements for resources and modules.</li>
@@ -413,4 +418,30 @@ Clicking a tag updates the list of modules with the same tag.</p>
   </div>
 </div>
 
+### Useful Features: Resource Costs & PRINT PDF
+<div class="row">
+  <div class="column">
+    <b>List of Resources and Estimated Costs</b>
+    <ul>
+      <li>Summarizes all resources and their costs.</li>
+      <li>Adjust quantities using the number field or arrow buttons.</li>
+    </ul>
+    <img widht="auto" src="images/training_planner/resources_costs.png" alt="List of Resources and estimated costs"><br>
+    <div align="center" width="100">
+      <em>List of Resources and estimated costs</em></div><br>
+  </div>
+  <div class="column"> 
+    <div align="center" width="100">
+      <video width="450" controls>
+        <source src="images/training_planner/19_training_print_PDF.mp4" type="video/mp4">
+      </video><br>
+      <em>Printing / saving training as PDF</em>
+    </div>
+    <b>Print PDF</b>
+    <ul>
+      <li>‘Print’ button for generating a hard copy or saving as a PDF.</li>
+      <li>Best results with Chromium-based browsers (e.g., Brave, Chromium)</li>
+    </ul>
+  </div>
+</div>
 
