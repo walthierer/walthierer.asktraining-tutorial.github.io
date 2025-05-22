@@ -35,7 +35,7 @@ __Table of Content:__
 ## #ASKtraining - Who is it for?
 <div class="row">
   <div class="column3">
-    <b>Developed to support #ASKnet members</b>
+    <b>Developed to support <br> #ASKnet members</b>
     <ul>
       <li>Open design allows for users outside #ASKnet</li>
       <li>Contributors add their skills and knowledge</li>
